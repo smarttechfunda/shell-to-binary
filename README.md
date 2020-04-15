@@ -13,7 +13,7 @@ OR use sudo su command to login as root user. <br />
 Run the following command. (If you are login as root user then no need to use sudo command.)<br />
 $ cd shell-to-binary <br />
 $ chmod +x shell-to-binary <br />  
-$ sudo ./shell-to-binary <shell_script_file_name> <br />
+$ sudo ./shell-to-binary shell_script_file_name <br />
 Example : <br />
 $ sudo ./shell-to-binary /home/centos/shellscript.sh <br />
 </p>
